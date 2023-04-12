@@ -9,6 +9,7 @@ public class PersonClafyn {
 		// TODO Auto-generated method stub
 		PersonClafyn p = new PersonClafyn();
 		int res = p.add(1,2);
+		System.out.println("hello");
 		System.out.println(res);
 	}
 
